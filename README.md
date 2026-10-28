@@ -1,6 +1,6 @@
 ### Hi, I'm Max
 
-MSc Statistics with Data Science student at the University of Edinburgh (current grade average: 85%), following a First-Class Honours BSc in Mathematics. I particularly enjoy Bayesian modelling and machine learning, and the research that comes with getting into a new problem from scratch.
+MSc Statistics with Data Science student from the University of Edinburgh, graduating with distinction (overall average 86%), following a First-Class Honours BSc in Mathematics. I enjoy Bayesian modelling and machine learning, and the research that comes with getting into a new problem from scratch.
 
 **Skills:** Python · R · Git · LaTeX · Microsoft Excel · Bayesian modelling (INLA) · Regression & GLMs · Machine Learning (scikit-learn, TensorFlow) · Statistical inference & hypothesis testing
 
